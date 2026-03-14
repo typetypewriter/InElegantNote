@@ -1,5 +1,5 @@
 [package]
-name = "InElegantNote"         # 项目名，需要使用
+name = "inelegant-note"         # 项目名，需要使用
 version = "0.9.0"        # 项目版本，一般来说是 0.1.0
 entrypoint = "lib.typ"   # 项目入口文件
 authors = ["Type <@typetypewriter>"] # 开发人员，可以写成 ["Your Name <@your-github-name>"]
