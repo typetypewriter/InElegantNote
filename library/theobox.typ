@@ -1,6 +1,6 @@
 #import "@preview/theorion:0.4.1": *
 
-#import "../template/custom/parameter.typ": *
+#import "../library/parameter.typ": *
 
 // ----------------------------------------------------------------------------------------
 /* 定义样式 */

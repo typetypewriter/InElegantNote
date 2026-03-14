@@ -1,10 +1,10 @@
 #import "@preview/cuti:0.4.0": show-cn-fakebold, show-cn-fakeitalic
 
-#import "../template/custom/parameter.typ": *
+#import "../library/parameter.typ": *
 #import "function.typ": *
 #import "../library/theobox.typ": *
-#import "../template/custom/custom-func.typ": *
-#import "../template/custom/custom-config.typ": custom-config
+#import "../library/custom-func.typ": *
+#import "../library/custom-config.typ": custom-config
 
 #let part-judge = state("part-judge", false) // 部分页判断
 #let part-title = state("part-title") // 部分标题存储
