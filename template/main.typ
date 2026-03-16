@@ -32,5 +32,3 @@
 #appendix[
   #my-bibliography(bibliography("./refs.bib"))
 ] // 附录环境
-
-= 1
